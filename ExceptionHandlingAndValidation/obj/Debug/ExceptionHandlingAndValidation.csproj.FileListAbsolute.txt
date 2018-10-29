@@ -1,0 +1,10 @@
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\bin\Debug\ExceptionHandlingAndValidation.exe.config
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\bin\Debug\ExceptionHandlingAndValidation.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\bin\Debug\ExceptionHandlingAndValidation.pdb
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\obj\Debug\ExceptionHandlingAndValidation.csprojAssemblyReference.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\obj\Debug\ExceptionHandlingAndValidation.Form1.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\obj\Debug\ExceptionHandlingAndValidation.Properties.Resources.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\obj\Debug\ExceptionHandlingAndValidation.csproj.GenerateResource.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\obj\Debug\ExceptionHandlingAndValidation.csproj.CoreCompileInputs.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\obj\Debug\ExceptionHandlingAndValidation.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ExceptionHandlingAndValidation\ExceptionHandlingAndValidation\obj\Debug\ExceptionHandlingAndValidation.pdb
